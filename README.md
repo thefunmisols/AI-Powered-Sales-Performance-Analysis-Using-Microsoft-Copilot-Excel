@@ -1,8 +1,6 @@
 # AI-Powered Sales Performance Analysis Using Microsoft Copilot & Excel
 AI-powered sales data analysis using Microsoft Copilot and Excel to uncover revenue trends, product performance, regional insights, and actionable business recommendations.
 
-# AI-Powered Sales Performance Analysis Using Microsoft Copilot & Excel
-
 ### Turning Raw Sales Data into Actionable Business Intelligence with Generative AI
 
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft-Copilot-2563EB)
@@ -10,7 +8,7 @@ AI-powered sales data analysis using Microsoft Copilot and Excel to uncover reve
 ![Generative AI](https://img.shields.io/badge/Generative_AI-AI_Assisted_Analytics-yellow)
 ![Project Type](https://img.shields.io/badge/Project-Sales_Analytics-blue)
 
-## 📌 Project Overview
+## Project Overview
 
 What if business leaders could transform raw sales transactions into actionable insights in minutes using Artificial Intelligence?
 
@@ -20,7 +18,7 @@ The objective was to demonstrate how **Generative AI can support the data analyt
 
 Using a September 2026 sales dataset, I produced a structured sales performance report featuring revenue analysis, regional comparisons, product-level insights, visualisations, and an executive summary.
 
-## 🎯 Business Problem
+## Business Problem
 
 Businesses generate large volumes of transactional data but often struggle to transform that data into meaningful insights.
 
@@ -35,7 +33,7 @@ This project explores how Microsoft Copilot can support a more efficient analyti
 - Present business performance through clear visualisations.
 - Communicate findings in an executive-friendly format.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Application |
 |---|---|
@@ -45,9 +43,9 @@ This project explores how Microsoft Copilot can support a more efficient analyti
 | Excel Charts | Visualisation of category-level performance |
 | Generative AI | Support for interpreting and communicating analytical findings |
 
-## 📂 Dataset Description
+## Dataset Description
 
-The analysis covers **20 sales transaction records from September 2026** across four product categories and four geographical regions.
+The analysis covers **20 sales transaction records for September 2026** across four product categories and four geographical regions.
 
 ### Dataset Features
 
@@ -68,7 +66,7 @@ The analysis covers **20 sales transaction records from September 2026** across 
 - Regions: 4
 - Currency: USD
 
-## 🔎 Analytical Approach
+## Analytical Approach
 
 The project followed an AI-assisted sales analytics workflow.
 
@@ -103,7 +101,7 @@ Developed an Excel column chart illustrating units sold across the four product 
 
 Presented key business findings in a concise executive summary designed to support management decision-making.
 
-## 📊 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI | September 2026 Result |
 |---|---|
@@ -116,7 +114,7 @@ Presented key business findings in a concise executive summary designed to suppo
 | North Region Revenue | **$27,286.03** |
 | Highest Sales Volume Category | **Apparel** |
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 ### 1. Electronics Dominated Revenue Generation
 
@@ -170,7 +168,7 @@ South led total units sold, while West recorded the lowest volume.
 
 This provides a starting point for investigating geographical differences in product demand, pricing, and market opportunities.
 
-## 📈 Data Visualisation & Reporting
+## Data Visualisation & Reporting
 
 The final Excel report includes:
 
@@ -180,9 +178,11 @@ The final Excel report includes:
 - Units Sold by Product Category column chart.
 - Executive Summary highlighting major findings.
 
+<img width="1366" height="623" alt="ai sales" src="https://github.com/user-attachments/assets/35bb8625-8e0d-4fcf-bcf2-951a731ab728" />
+
 Together, these outputs provide an accessible view of sales performance for business stakeholders.
 
-## 🎯 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following actions should be considered:
 
@@ -196,9 +196,11 @@ Based on the analysis, the following actions should be considered:
 
 **5. Introduce AI-assisted reporting workflows.** Explore how Copilot can support recurring analysis, insight generation, and reporting while maintaining human review of financial outputs.
 
+<img width="1366" height="619" alt="prompt playbook" src="https://github.com/user-attachments/assets/a407c9ef-2a6e-4434-9f2e-9f970211ce78" />
+
 These recommendations are analytical starting points rather than confirmed causal findings.
 
-## 🤖 Why Microsoft Copilot?
+## Why Microsoft Copilot?
 
 This project illustrates the potential of Generative AI to make business data analysis more accessible.
 
@@ -208,7 +210,7 @@ However, **AI-generated outputs should always be validated against the underlyin
 
 The analyst remains responsible for data quality, calculation accuracy, business interpretation, and final recommendations.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential next steps for this project include:
 
@@ -220,7 +222,7 @@ Potential next steps for this project include:
 - Developing sales forecasts and performance anomaly detection.
 - Building a conversational analytics interface for business stakeholders.
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 - Generative AI for Data Analytics
 - Microsoft Copilot
@@ -234,26 +236,10 @@ Potential next steps for this project include:
 - Data Storytelling
 - Business Decision Support
 
-## 👤 About the Analyst
-
-**Funmi Gbokoyi**
-
-Data Analyst | Analytics Engineer | Financial Analytics & AI Consultant
-
-Founder, Funmisols Consulting Ltd
-
-I specialise in combining financial expertise, data analytics, business intelligence, and artificial intelligence to help businesses transform complex data into actionable insights and make better strategic decisions.
-
 **LinkedIn:** [Funmi Gbokoyi](https://www.linkedin.com/in/funmi-gbokoyi123)
-
-## 📌 Final Takeaway
 
 **AI does not replace analytical thinking. It amplifies it.**
 
 The real value of Generative AI in analytics is not simply producing reports faster. It is helping analysts spend less time on repetitive work and more time identifying opportunities, interpreting performance, and supporting better business decisions.
 
-This project demonstrates how Microsoft Copilot and Excel can contribute to that transformation.
-
----
-
-⭐ If you found this project useful, consider starring the repository!
+This project demonstrates how Microsoft Copilot and Excel can contribute to that transformation. Speed and accuracy are key in this AI era.
