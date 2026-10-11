@@ -1,5 +1,5 @@
 # AI-Powered Sales Performance Analysis Using Microsoft Copilot & Excel
-AI-powered sales data analysis using Microsoft Copilot and Excel to uncover revenue trends, product performance, regional insights, and actionable business recommendations.
+AI-powered sales data analysis using Microsoft Copilot and Excel to uncover revenue trends, product performance, regional insights, and practical business recommendations.
 
 ### Turning Raw Sales Data into Actionable Business Intelligence with Generative AI
 
